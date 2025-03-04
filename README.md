@@ -1,0 +1,2 @@
+# lotoo.one
+blog
